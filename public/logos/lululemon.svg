@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" fill="none">
-  <!-- Lululemon omega/horseshoe mark -->
-  <g transform="translate(4, 4)">
-    <circle cx="26" cy="26" r="26" fill="#000"/>
-    <path d="M26 8 C16 8 10 17 10 26 C10 32 13 37 17 40 L17 44 L22 44 L22 38.5 C20 36.5 18.5 32 18.5 26 C18.5 19 22 14.5 26 14.5 C30 14.5 33.5 19 33.5 26 C33.5 32 32 36.5 30 38.5 L30 44 L35 44 L35 40 C39 37 42 32 42 26 C42 17 36 8 26 8Z" fill="#fff"/>
-  </g>
-  <!-- lululemon wordmark -->
-  <text x="68" y="38" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="22" font-weight="300" fill="#000" letter-spacing="-0.3">lululemon</text>
-</svg>
